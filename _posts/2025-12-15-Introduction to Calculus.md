@@ -1743,7 +1743,7 @@ $$
 |                | $(\log_a x)' = \frac{1}{x \ln a}$                       | $a > 0, , a \neq 1, , x > 0$                     |
 | **双曲函数**   | $(\sinh x)' = \cosh x$                                  |                                                  |
 |                | $(\cosh x)' = \sinh x$                                  |                                                  |
-|                | $(\tanh x)' = \frac{1}{{cosh}^2 x}$                     |                                                  |
+|                | $(\tanh x)' = \frac{1}{{\coshs^2 x}$                     |                                                  |
 | **反双曲函数** | $(\operatorname{arsinh} x)' = \frac{1}{\sqrt{x^2 + 1}}$ |                                                  |
 |                | $(\operatorname{arcosh} x)' = \frac{1}{\sqrt{x^2 - 1}}$ | $x > 1$                                          |
 |                | $(\operatorname{artanh} x)' = \frac{1}{1 - x^2}$        | $x \in (-1, 1)$                                  |
